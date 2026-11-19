@@ -1,0 +1,13 @@
+Order_ID,Order_Date,Product,Category,Quantity,Unit_Price,City,Revenue
+1001,2026-01-03,Cake,Bakery,2,1200,Lahore,2400
+1002,2026-01-04,Bread,Bakery,5,150,Gujranwala,750
+1003,2026-01-05,Cookies,Snacks,3,300,Lahore,900
+1004,2026-01-08,Cake,Bakery,1,1500,Islamabad,1500
+1005,2026-01-10,Pastry,Bakery,4,250,Lahore,1000
+1006,2026-01-12,Bread,Bakery,6,150,Gujranwala,900
+1007,2026-01-15,Cookies,Snacks,2,350,Islamabad,700
+1008,2026-01-18,Cake,Bakery,3,1300,Lahore,3900
+1009,2026-01-20,Pastry,Bakery,2,275,Gujranwala,550
+1010,2026-01-22,Bread,Bakery,4,160,Lahore,640
+1011,2026-01-25,Cake,Bakery,2,1400,Islamabad,2800
+1012,2026-01-28,Cookies,Snacks,5,320,Lahore,1600
